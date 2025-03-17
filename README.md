@@ -21,6 +21,6 @@ We introduce **RACE**, a novel multiturn jailbreak framework to expose the criti
 
 ## Start
 
-**Our code will be released soon!**
+**We have already updated part of the code, and all of our code will be released soon!**
 
 
