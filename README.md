@@ -8,7 +8,7 @@
 <p align="center">
  <a href="https://github.com/NY1024/RACE"><img alt="GitHub license" src="https://img.shields.io/github/license/UmeanNever/B2NER"></a>
  <a href="https://arxiv.org/pdf/2502.11054"><img alt="Paper" src="https://img.shields.io/badge/📖-Paper-red"></a>
- <a href="https://huggingface.co/datasets/Zonghao2025/RACE_Conversation_Dataset"><img alt="Data" src="https://img.shields.io/badge/🤗-Data-blue"></a>We currently provide the dialogue dataset from our attack on DeepSeek-R1.
+ <a href="https://huggingface.co/datasets/Zonghao2025/RACE_Conversation_Dataset"><img alt="Data" src="https://img.shields.io/badge/🤗-Data-blue"></a>
 </p>
 
 Official implementation of **RACE**. 
@@ -18,7 +18,7 @@ We introduce **RACE**, a novel multiturn jailbreak framework to expose the criti
 
  - 📖 Paper: [Reasoning-Augmented Conversation for Multi-Turn Jailbreak Attacks on Large Language Models](https://arxiv.org/pdf/2502.11054)
  - 🎮 Code Repo: https://github.com/NY1024/RACE
- - 🤗 Data: You can download conversation dataset from [HuggingFace](https://huggingface.co/datasets/Zonghao2025/RACE_Conversation_Dataset).
+ - 🤗 Data: You can download conversation dataset from [HuggingFace](https://huggingface.co/datasets/Zonghao2025/RACE_Conversation_Dataset). **We currently provide the conversation dataset from attack on DeepSeek-R1.**
    
 # <img src="resources/main.png" width="90%">
 
