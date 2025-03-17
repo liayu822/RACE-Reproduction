@@ -8,6 +8,14 @@ Official implementation of **RACE**.
 
 **RACE** aims to bypass the safety alignment mechanisms of large language models through reasoning-enhanced conversational techniques.
 
+## Experiment Results
+
+# <img src="resources/result1.png" width="90%">
+
+# <img src="resources/result2.png" width="90%">
+
+## Start
+
 **Our code will be released soon!**
 
 ## Cite
