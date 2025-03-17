@@ -17,9 +17,6 @@ We introduce **RACE**, a novel multiturn jailbreak framework to expose the criti
 # <img src="resources/main.png" width="90%">
 
 
-Official implementation of **RACE**. 
-
-
 ## Experiment Results
 
 # <img src="resources/result1.png" width="90%">
