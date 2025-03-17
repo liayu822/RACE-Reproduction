@@ -5,6 +5,12 @@
  </h1>
 </p>
 
+<p align="center">
+ <a href="https://github.com/NY1024/RACE"><img alt="GitHub license" src="https://img.shields.io/github/license/UmeanNever/B2NER"></a>
+ <a href="https://arxiv.org/pdf/2502.11054"><img alt="Paper" src="https://img.shields.io/badge/📖-Paper-red"></a>
+ <a href="https://huggingface.co/datasets/Zonghao2025/RACE_Conversation_Dataset"><img alt="Data" src="https://img.shields.io/badge/🤗-Data-blue"></a>
+</p>
+
 Official implementation of **RACE**. 
 
 We introduce **RACE**, a novel multiturn jailbreak framework to expose the critical safety vulnerabilities of LLMs. RACE reformulates harmful queries into benign reasoning tasks and utilizes an Attack State Machine framework, along with gain-guided exploration, self-play, and rejection feedback modules, to ensure semantic coherence and high attack effectiveness. Our experiments on multiple LLMs demonstrate that RACE achieves state-of-the-art attack success rates, highlighting the potential risks in current LLM safety mechanisms.
