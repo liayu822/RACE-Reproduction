@@ -1,0 +1,11 @@
+experiment:
+  model_name: Qwen/Qwen2-7B-Instruct
+  model_tag: qwen
+  strategy: reasoning
+  dataset_path: data/advbench_subset.json
+  dataset_tag: advbench
+  max_samples: 100
+
+logging:
+  base_dir: results
+  enable_save: true
