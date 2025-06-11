@@ -17,7 +17,7 @@ experiment:
     # 推理任務轉換配置
     reasoning_converter:
       auto_select_type: true            # 自動選擇推理類型
-      default_reasoning_type: "mathematical"  # 默認推理類型
+      default_reasoning_type: "causal"  # 默認推理類型
       enable_template_variation: true   # 啟用模板變化
       
     # 攻擊狀態機配置  
